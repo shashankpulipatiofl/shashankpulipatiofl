@@ -40,24 +40,31 @@ Jan 2026 – Mar 2026
 
 ## 💻 Tech Stack:
 
-**Languages & Web**
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white)
+### Languages & Web
+<p align="left">
+<img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/javascript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white" />
+</p>
 
-**ML & Data**
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
-![numpy](https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white)
-![matplotlib](https://img.shields.io/badge/Matplotlib-white?style=flat&logo=Matplotlib&logoColor=black)
+### ML & Data
+<p align="left">
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-white?style=flat&logo=Matplotlib&logoColor=black" />
+</p>
 
-**Backend & DB**
-![flask](https://img.shields.io/badge/flask-000000?style=flat&logo=flask&logoColor=white)
-![mysql](https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white)
-![sqlite](https://img.shields.io/badge/sqlite-07405e?style=flat&logo=sqlite&logoColor=white)
+### Backend & DB
+<p align="left">
+<img src="https://img.shields.io/badge/flask-000000?style=flat&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/sqlite-07405e?style=flat&logo=sqlite&logoColor=white" />
+</p>
 
-**Tools**
-![git](https://img.shields.io/badge/git-F05033?style=flat&logo=git&logoColor=white)
-![github](https://img.shields.io/badge/github-121011?style=flat&logo=github&logoColor=white)
-
+### Tools
+<p align="left">
+<img src="https://img.shields.io/badge/git-F05033?style=flat&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/github-121011?style=flat&logo=github&logoColor=white" />
+</p>
