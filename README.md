@@ -54,22 +54,3 @@ Jan 2026 – Mar 2026
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shashankpulipatiofl&theme=dark)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=shashankpulipatiofl&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shashankpulipatiofl&theme=dark&layout=compact)
-
----
-
-## 🔝 Top Contributed Repo
-
-![Top Repo](https://github-contributor-stats.vercel.app/api?username=shashankpulipatiofl&limit=5&theme=dark)
-
----
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=shashankpulipatiofl)
