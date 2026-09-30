@@ -23,18 +23,14 @@ Jan 2026 – May 2026
 - Designed a relational persistence layer with **PostgreSQL**, enforcing Test-Driven Development (TDD) via **Jest** and Node.js Native Test Runner.
 - Integrated strict data validation using Joi and robust password hashing via bcrypt, deploying containerized, verification-driven pipelines through **Docker**, Docker Compose, and **GitHub Actions**.
 
-**SkillGap RAG AI Career Mentor Platform**
-- Engineered a context-aware RAG platform utilizing **OpenAI models, LangChain, LangGraph, and ChromaDB** vector embeddings to systematically parse unstructured text and deliver personalized, real-time career mentoring.
-- Designed an automated evaluation framework to analyze skill gaps, automate student competency assessments, and generate deterministic real-time data-driven upskilling roadmaps.
-
+**AI-Powered Financial Data Analytics & Risk Engine (Assistant)**
+- Developed an intelligent transaction analytics system, optimizing raw text preprocessing with **TF-IDF extractions** to achieve 88-90% prediction accuracy across messy datasets.
+- Evaluated high-performing classification models (Logistic Regression, Random Forests) and applied unsupervised **K-Means clustering** to uncover latent consumer spending patterns.
+  
 **HomeLynk: Scalable E-Commerce Web Service**
 - Designed scalable backend JSON APIs and implemented robust business logic using **JavaScript, Python, and Flask**.
 - Engineered a relational database layer with **MySQL**, leveraging OOP principles to securely process mission-critical service booking data.
 - Simulated concurrent user traffic to perform rigorous REST API testing, effectively identifying and resolving operational bottlenecks.
-
-**AI-Powered Financial Data Analytics & Risk Engine (Assistant)**
-- Developed an intelligent transaction analytics system, optimizing raw text preprocessing with **TF-IDF extractions** to achieve 88-90% prediction accuracy across messy datasets.
-- Evaluated high-performing classification models (Logistic Regression, Random Forests) and applied unsupervised **K-Means clustering** to uncover latent consumer spending patterns.
 
 ---
 
