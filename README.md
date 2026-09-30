@@ -1,6 +1,6 @@
 # 💫 About Me
 
-Final-year Computer Science student (9.12 CGPA) specializing in Artificial Intelligence and Machine Learning. I am a passionate Software & AI Engineer with a robust foundation in Data Structures, Algorithms, and Object-Oriented Programming. I have a proven track record of architecting scalable backend APIs, deploying enterprise-grade AI applications, and building end-to-end machine learning workflows. Highly adaptable and focused on writing clean, modular code to solve complex technical challenges.
+Final-year Computer Science student (9.12 CGPA) specializing in Artificial Intelligence and Machine Learning. I am a passionate Software & AI Engineer with a robust foundation in Data Structures, Algorithms, and Object-Oriented Programming. I have a proven track record of architecting scalable backend APIs, deploying enterprise-grade AI applications, and building end-to-end machine learning workflows. Highly adaptable and focused on writing clean, modular code to solve complex technical challenges using AI-augmented engineering.
 
 ---
 
@@ -46,7 +46,17 @@ Jan 2026 – May 2026
 
 ---
 
-## 💻 Tech Stack
+## 💻 Technical Arsenal
+
+*   **Artificial Intelligence & RAG:** OpenAI, Retrieval-Augmented Generation (RAG), AI-Augmented Engineering, Large Language Models (LLMs), LangChain, Semantic Retrieval, Prompt Engineering, Vector Databases (ChromaDB, FAISS)
+*   **Machine Learning & Computer Vision:** Deep Learning, Computer Vision, Classification, Regression, Clustering, Feature Engineering, NLP, Data Analytics, TF-IDF
+*   **Core Engineering, Security & Automation:** System Design, Microservices Architecture, RESTful API Design, Data Validation (Joi), Authentication (bcrypt), Test-Driven Development (TDD), Agile (Scrum), RPA (UiPath, Power Automate)
+*   **Languages, Web Stack & Libraries:** Python, JavaScript, Node.js (v18+), Express.js, HTML5, CSS3, TensorFlow, Keras, Scikit-learn, Pandas, NumPy, Matplotlib, Flask, FastAPI, Sentence Transformers, Jest, Node.js Native Test Runner
+*   **Cloud, Databases & DevOps Tools:** AWS, Azure, PostgreSQL, MySQL, SQLite, Docker, Docker Compose, GitHub Actions (CI/CD), Git, GitHub, ESLint, OpenAPI (Swagger)
+
+---
+
+## 🛠️ Tech Stack Badges
 
 ### Languages & Frontend
 <p align="left">
@@ -66,10 +76,11 @@ Jan 2026 – May 2026
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white" />
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/sqlite-07405e?style=flat&logo=sqlite&logoColor=white" />
 <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white" />
 </p>
 
-### AI, ML & Data
+### AI, ML, Data & RPA
 <p align="left">
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white" />
@@ -78,15 +89,20 @@ Jan 2026 – May 2026
 <img src="https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenAI-412991.svg?style=flat&logo=OpenAI&logoColor=white" />
 <img src="https://img.shields.io/badge/LangChain-%23000000.svg?style=flat&logo=LangChain&logoColor=white" />
-<img src="https://img.shields.io/badge/LangGraph-%234B0082.svg?style=flat&logo=LangChain&logoColor=white" />
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power%20BI&logoColor=white" />
+<img src="https://img.shields.io/badge/UiPath-FA4616?style=flat&logo=UiPath&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat&logo=PowerAutomate&logoColor=white" />
 </p>
 
-### DevOps & Tools
+### DevOps, Cloud & Tools
 <p align="left">
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white" />
 <img src="https://img.shields.io/badge/git-F05033?style=flat&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Jest-323330?style=flat&logo=Jest&logoColor=white" />
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=black" />
+<img src="https://img.shields.io/badge/eslint-3A33D1?style=flat&logo=eslint&logoColor=white" />
 </p>
